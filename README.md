@@ -1,6 +1,6 @@
 - 👋My name is Rakesh and I am excited to share with you a little bit about myself and my projects through this README file on my Github profile.
 
-I am a passionate software developer with a strong background in programming languages such as Java, Python, and JavaScript. I enjoy creating elegant and efficient solutions to complex problems and am always looking to learn and grow in my field.
+I am a passionate CS student with a background in programming languages such as Java, Python, and JavaScript. I enjoy creating elegant and efficient solutions to complex problems and am always looking to learn and grow in my field.
 
 Currently, I am working on a project that aims to improve the user experience of online shopping. This project utilizes machine learning algorithms to personalize product recommendations based on a user's browsing and purchase history.
 
