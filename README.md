@@ -37,7 +37,7 @@ I once wrote a Python script to generate random fun facts about technology and s
 
 
 ## 🔗 Links
-![portfolio](rakeshp1423.github.io/meCore/)
+[![portfolio](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](rakeshp1423.github.io/meCore/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-patra-8864b1258/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KumarRakesh1423)
 
